@@ -1,10 +1,5 @@
-# Cpp-Fundamentals-Practice
-A structured collection of C++ programs covering programming fundamentals, problem-solving, OOP, data structures, and practical coding exercises.
-
-
 # C++ Programming Practice
-
-A collection of C++ programs written while building a solid foundation in core programming and problem-solving.
+A structured collection of C++ programs covering programming fundamentals, problem-solving, OOP, data structures, and practical coding exercises.
 
 ## About
 
